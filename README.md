@@ -46,4 +46,4 @@ https://drive.google.com/file/d/1VMPSHr6lxh2l5U_q808SA5eFLeNrFd5s/view?usp=share
 * Due to computational limitation I haven't experimented further:)
 
 # Interface Design:
-![image](https://user-images.githubusercontent.com/106440078/212739785-1d60fcf4-2d3e-4070-8ae1-07a348eeebe6.png)
+![image](https://user-images.githubusercontent.com/106440078/212740240-611e72e3-b09c-4e6f-b35e-2222c50fef16.png)
