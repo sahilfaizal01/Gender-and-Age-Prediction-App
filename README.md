@@ -42,7 +42,7 @@ https://drive.google.com/file/d/1VMPSHr6lxh2l5U_q808SA5eFLeNrFd5s/view?usp=share
 * The accuracy and loss values are saturating near to 30 epochs
 * Training Accuracy: 80% and Validation Accuracy: 79% (Gender Classification)
 * Training Loss: ~4 and Validation Loss: ~72 (Age Prediction)
-* The results can be further improved by using more data from other datasets and by training for more epochs 
+* The results can be further improved by using more data and by training for more epochs 
 * Due to computational limitation I haven't experimented further:)
 
 # Interface Design:
